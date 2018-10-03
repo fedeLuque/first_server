@@ -1,0 +1,15 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej11.js",
+  "scripts": {
+    "start": "node ej11.js"
+    "test": "error"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
